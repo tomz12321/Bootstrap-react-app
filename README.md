@@ -41,3 +41,10 @@ From there you can:
 - Run the tests once with `yarn test` (Or run them in watch mode with `yarn run tdd`).
 - Start a local copy of the docs site with `yarn start`
 - Or build a local copy of the library with `yarn run build`
+
+## Using Jira to run Kanban
+
+- Go here: https://www.atlassian.com/software/jira
+
+<img src="https://github.com/tomz12321/Bootstrap-react-app/blob/master/screenshots/ScreenShot_jira.png" width = "1996" height = "502" alt="Screen-Shot-Use-Jira.png" 
+align=center>
